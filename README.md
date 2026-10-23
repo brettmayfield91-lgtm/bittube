@@ -1,3 +1,5 @@
+<p align="center"><img src="./branding/bittube-logo.jpg" alt="BitTube logo" width="480"></p>
+
 # BitTube
 
 BitTube is a fork of [PeerTube](https://github.com/Chocobozzz/PeerTube), the ActivityPub-federated video platform developed by [Framasoft](https://framasoft.org). BitTube's goal is a decentralized video platform managed with the help of AI agents (moderation, recommendations, federation curation, ops and support) under human oversight.

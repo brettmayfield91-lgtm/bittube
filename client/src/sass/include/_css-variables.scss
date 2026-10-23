@@ -17,7 +17,7 @@
   --bg: var(--mainBackgroundColor, #fff);
   --bg-secondary: var(--greyBackgroundColor, #E5E5E5);
 
-  --primary: var(--mainColor, hsl(24, 90%, 45%));
+  --primary: var(--mainColor, #19C3B3); // BitTube teal
   --on-primary: #{pvar(--fg)};
 
   --red: #{$red};
@@ -112,11 +112,12 @@
   &[data-pt-theme="default"] {
     --is-dark: 0;
 
-    --primary-650: hsl(20, 100%, 49%);
-    --primary-550: hsl(24, 90%, 50%);
-    --primary: hsl(26, 100%, 61%);
-    --primary-500: hsl(26, 100%, 61%);
-    --primary-450: hsl(26, 98%, 65%);
+    // BitTube brand: indigo #3B2F8F to teal #19C3B3
+    --primary-650: #3B2F8F;
+    --primary-550: hsl(174, 77%, 38%);
+    --primary: #19C3B3;
+    --primary-500: #19C3B3;
+    --primary-450: hsl(174, 70%, 55%);
     --border-primary: #{pvar(--primary-650)};
 
     --fg: hsl(0 0% 4%);
