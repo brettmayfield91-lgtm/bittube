@@ -1,6 +1,6 @@
 {
   "name": "peertube",
-  "description": "PeerTube, an ActivityPub-federated video streaming platform using P2P directly in your web browser.",
+  "description": "BitTube, a fork of PeerTube: an ActivityPub-federated video streaming platform managed with the help of AI agents.",
   "version": "8.3.1",
   "private": true,
   "license": "AGPL-3.0",

@@ -1124,8 +1124,8 @@ auto_blacklist:
 
 # Instance settings
 instance:
-  name: 'PeerTube'
-  short_description: 'PeerTube, an ActivityPub-federated video streaming platform using P2P directly in your web browser.'
+  name: 'BitTube'
+  short_description: 'BitTube, a fork of PeerTube: an ActivityPub-federated video streaming platform managed with the help of AI agents.'
   description: 'Welcome to this PeerTube instance!' # Support markdown
   terms: 'No terms for now.' # Support markdown
   code_of_conduct: '' # Supports markdown
