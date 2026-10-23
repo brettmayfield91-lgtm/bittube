@@ -1,0 +1,19 @@
+{
+  "name": "peertube-plugin-bittube-moderation",
+  "version": "0.1.0",
+  "description": "BitTube AI moderation agent: classifies new local videos and comments with an OpenAI-compatible API and flags risky content for human review. Never deletes or bans.",
+  "engine": {
+    "peertube": ">=6.0.0"
+  },
+  "keywords": ["peertube", "plugin", "moderation", "bittube"],
+  "homepage": "https://github.com/brettmayfield91-lgtm/bittube",
+  "license": "AGPL-3.0",
+  "library": "./main.js",
+  "staticDirs": {},
+  "css": [],
+  "clientScripts": [],
+  "translations": {},
+  "scripts": {
+    "test": "node --test test/"
+  }
+}
